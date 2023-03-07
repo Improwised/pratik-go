@@ -24,7 +24,7 @@ func GetAPICommandDef(cfg config.AppConfig, logger *zap.Logger) cobra.Command {
 		Short: "To start api",
 		Long:  `To start api`,
 		RunE: func(cmd *cobra.Command, args []string) error {
-			// Create fiber app
+			// Create fiber app by pratik
 			app := fiber.New(fiber.Config{})
 
 			// Middleware
