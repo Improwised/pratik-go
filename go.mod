@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/doug-martin/goqu/v9 v9.18.0
+	github.com/doug-martin/goqu/v9 v9.19.0
 	github.com/getsentry/sentry-go v0.13.0
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/gofiber/fiber/v2 v2.38.1
