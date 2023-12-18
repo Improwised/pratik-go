@@ -15,7 +15,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/rs/xid v1.4.0
 	github.com/rubenv/sql-migrate v1.2.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.0
 	go.uber.org/zap v1.23.0
